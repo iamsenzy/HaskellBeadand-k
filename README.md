@@ -1,13 +1,13 @@
 # HaskellBeadandok
 
-sudoku.hs Feladata : Sudoku megoldó
+sudoku.hs Feladata : Sudoku megoldó       http://lambda.inf.elte.hu/fp/Sudoku.xml
 
 A feladat a Sudoku logikai játékról, szabályainak megfogalmazásáról és végül a megoldásáról szól. 
 A Sudoku játékot egy 9x9-es négyzetrácson játsszák, amelynek az üresen hagyott mezőit kell kitölteni az [1-9]
 intervallumból vett értékek valamelyikével.
 A kitöltés szabálya, hogy egy tetszőleges sorban, oszlopban vagy blokkban sem szerepeljen ugyanaz a szám egynél többször.
 
-bignum.hs Feladata : Karatsuba-algoritmus
+bignum.hs Feladata : Karatsuba-algoritmus  http://lambda.inf.elte.hu/fp/Karatsuba.xml
 
 A Karatsuba-algoritmus egy gyors szorzást megvalósító algoritmus. Az algoritmus két, n számjegyből álló szám szorzatát 
 állítja elő hatékonyan. Ilyenkor ugyanis a szorzat legfeljebb nlog23 ≈ n1, 585 számjegy szorzásából áll elő, 
